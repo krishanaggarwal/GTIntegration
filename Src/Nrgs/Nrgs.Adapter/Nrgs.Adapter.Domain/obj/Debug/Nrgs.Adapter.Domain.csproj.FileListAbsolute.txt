@@ -1,0 +1,4 @@
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Domain\bin\Debug\Nrgs.Adapter.Domain.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Domain\bin\Debug\Nrgs.Adapter.Domain.pdb
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Domain\obj\Debug\Nrgs.Adapter.Domain.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Domain\obj\Debug\Nrgs.Adapter.Domain.pdb

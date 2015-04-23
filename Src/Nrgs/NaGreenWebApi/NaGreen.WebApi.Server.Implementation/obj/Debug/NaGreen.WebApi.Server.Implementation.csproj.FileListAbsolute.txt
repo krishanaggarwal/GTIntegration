@@ -1,0 +1,7 @@
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Implementation\bin\Debug\NaGreen.WebApi.Server.Implementation.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Implementation\bin\Debug\NaGreen.WebApi.Server.Implementation.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Implementation\obj\Debug\NaGreen.WebApi.Server.Implementation.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Implementation\obj\Debug\NaGreen.WebApi.Server.Implementation.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Implementation\bin\Debug\NaGreen.WebApi.Server.Base.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Implementation\bin\Debug\NaGreen.WebApi.Server.Base.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Implementation\obj\Debug\NaGreen.WebApi.Server.Implementation.csprojResolveAssemblyReference.cache

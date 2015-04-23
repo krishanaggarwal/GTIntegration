@@ -1,0 +1,151 @@
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.dll.config
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.pdb
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\Antlr3.Runtime.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\EntityFramework.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\Newtonsoft.Json.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Net.Http.Formatting.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Helpers.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.WebHost.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Mvc.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Optimization.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Razor.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Razor.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\WebGrease.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\EntityFramework.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\Newtonsoft.Json.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Net.Http.Formatting.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Helpers.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.WebHost.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Mvc.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Optimization.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Razor.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Razor.xml
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\bin\Antlr3.Runtime.pdb
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.dll
+c:\users\shivindernarr\documents\visual studio 2013\Projects\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.pdb
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.dll.config
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.pdb
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\Antlr3.Runtime.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\EntityFramework.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\Newtonsoft.Json.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Net.Http.Formatting.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Helpers.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.WebHost.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Mvc.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Optimization.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Razor.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Razor.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\WebGrease.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\EntityFramework.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\Newtonsoft.Json.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Net.Http.Formatting.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Helpers.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.WebHost.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Mvc.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Optimization.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Razor.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Razor.xml
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\bin\Antlr3.Runtime.pdb
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.dll
+D:\Ebooks\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.pdb
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.dll.config
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.pdb
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\Antlr3.Runtime.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\EntityFramework.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\Newtonsoft.Json.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Helpers.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Mvc.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Optimization.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Razor.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\WebGrease.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\EntityFramework.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\Newtonsoft.Json.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Helpers.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Mvc.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Optimization.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Razor.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.pdb
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\RestSharp.dll
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\bin\RestSharp.xml
+C:\Users\shivindernarr\Desktop\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.csprojResolveAssemblyReference.cache
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.dll.config
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreenWebApi.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Antlr3.Runtime.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\EntityFramework.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Newtonsoft.Json.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\RestSharp.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Net.Http.Formatting.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Helpers.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.WebHost.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Mvc.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Optimization.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Razor.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Razor.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\WebGrease.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\EntityFramework.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\RestSharp.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Newtonsoft.Json.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Net.Http.Formatting.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Helpers.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Http.WebHost.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Mvc.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Optimization.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.Razor.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\System.Web.WebPages.Razor.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Antlr3.Runtime.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Microsoft.Practices.Unity.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreen.WebApi.Common.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreen.WebApi.Server.Base.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreen.WebApi.Server.Implementation.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Unity.WebApi.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreen.WebApi.Common.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreen.WebApi.Server.Base.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreen.WebApi.Server.Implementation.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Microsoft.Practices.Unity.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\obj\Debug\NaGreenWebApi.csprojResolveAssemblyReference.cache
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreen.WebApi.Infrastructure.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreenWebApi\bin\NaGreen.WebApi.Infrastructure.pdb

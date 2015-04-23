@@ -1,0 +1,8 @@
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Base\bin\Debug\NaGreen.WebApi.Server.Base.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Base\bin\Debug\NaGreen.WebApi.Server.Base.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Base\obj\Debug\NaGreen.WebApi.Server.Base.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Server.Base\obj\Debug\NaGreen.WebApi.Server.Base.pdb
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebApi\NaGreen.WebApi.Server.Base\bin\Debug\NaGreen.WebApi.Server.Base.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebApi\NaGreen.WebApi.Server.Base\bin\Debug\NaGreen.WebApi.Server.Base.pdb
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebApi\NaGreen.WebApi.Server.Base\obj\Debug\NaGreen.WebApi.Server.Base.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebApi\NaGreen.WebApi.Server.Base\obj\Debug\NaGreen.WebApi.Server.Base.pdb

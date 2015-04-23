@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="na_greenModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Game_Round">
+    <Key>
+      <PropertyRef Name="RoundId" />
+    </Key>
+    <Property Name="RoundId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="Stake" Type="bigint" Nullable="false" />
+    <Property Name="Win" Type="bigint" />
+    <Property Name="BalanceChange" Type="bigint" />
+    <Property Name="ReferenceId" Type="nvarchar" MaxLength="50" />
+    <Property Name="StartDate" Type="datetime" Nullable="false" />
+    <Property Name="EndDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Transaction_Types">
+    <Key>
+      <PropertyRef Name="TransactionTypeId" />
+    </Key>
+    <Property Name="TransactionTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Transactions">
+    <Key>
+      <PropertyRef Name="TransactionId" />
+    </Key>
+    <Property Name="TransactionId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TransactionTypeId" Type="int" Nullable="false" />
+    <Property Name="CDate" Type="datetime" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="RoundId" Type="bigint" Nullable="false" />
+    <Property Name="BalanceChange" Type="bigint" Nullable="false" />
+    <Property Name="ReferenceId" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Balance" Type="bigint" Nullable="false" />
+    <Property Name="Currency" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="CDate" Type="datetime" Nullable="false" />
+    <Property Name="LastLogin" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Game_Round_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Game_Round" Type="Self.Game_Round" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Game_Round">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transactions_Game_Round">
+    <End Role="Game_Round" Type="Self.Game_Round" Multiplicity="1" />
+    <End Role="Transactions" Type="Self.Transactions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Game_Round">
+        <PropertyRef Name="RoundId" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="RoundId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transactions_Transaction_Types">
+    <End Role="Transaction_Types" Type="Self.Transaction_Types" Multiplicity="1" />
+    <End Role="Transactions" Type="Self.Transactions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Transaction_Types">
+        <PropertyRef Name="TransactionTypeId" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="TransactionTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transactions_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Transactions" Type="Self.Transactions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="na_greenModelStoreContainer">
+    <EntitySet Name="Game_Round" EntityType="Self.Game_Round" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Transaction_Types" EntityType="Self.Transaction_Types" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Transactions" EntityType="Self.Transactions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Game_Round_Users" Association="Self.FK_Game_Round_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Game_Round" EntitySet="Game_Round" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transactions_Game_Round" Association="Self.FK_Transactions_Game_Round">
+      <End Role="Game_Round" EntitySet="Game_Round" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transactions_Transaction_Types" Association="Self.FK_Transactions_Transaction_Types">
+      <End Role="Transaction_Types" EntitySet="Transaction_Types" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transactions_Users" Association="Self.FK_Transactions_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

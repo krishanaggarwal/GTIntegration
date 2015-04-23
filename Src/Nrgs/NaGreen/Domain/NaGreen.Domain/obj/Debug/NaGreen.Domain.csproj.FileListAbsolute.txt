@@ -1,0 +1,4 @@
+C:\GTIntegration\Src\Nrgs\NaGreen\Domain\NaGreen.Domain\bin\Debug\NaGreen.Domain.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\Domain\NaGreen.Domain\bin\Debug\NaGreen.Domain.pdb
+C:\GTIntegration\Src\Nrgs\NaGreen\Domain\NaGreen.Domain\obj\Debug\NaGreen.Domain.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\Domain\NaGreen.Domain\obj\Debug\NaGreen.Domain.pdb

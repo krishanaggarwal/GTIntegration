@@ -1,0 +1,4 @@
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Common\bin\Debug\NaGreen.WebApi.Common.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Common\bin\Debug\NaGreen.WebApi.Common.pdb
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Common\obj\Debug\NaGreen.WebApi.Common.dll
+C:\GTIntegration\Src\Nrgs\NaGreenWebApi\NaGreen.WebApi.Common\obj\Debug\NaGreen.WebApi.Common.pdb

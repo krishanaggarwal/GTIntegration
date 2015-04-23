@@ -1,0 +1,31 @@
+﻿@model NaGreen.Models.GamesResult
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetGameList</title>
+</head>
+<body>
+    <h2>List of games</h2>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+    {
+        <ul>
+            @foreach (var game in Model.GameList)
+            {
+                <li>
+                    @Html.ActionLink(game.Title, "GetGame", "Games", new {gameId= game.Id },null)
+                </li>
+
+
+            }
+        </ul>
+ 
+    }
+</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7a15d027531d48a9873da8e05e2ffc32" Name="Diagram1">
+        <EntityTypeShape EntityType="na_greenModel.Game_Round" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="na_greenModel.sysdiagram" Width="1.5" PointX="7.125" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="na_greenModel.Transaction_Types" Width="1.5" PointX="3" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="na_greenModel.Transaction" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="na_greenModel.User" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="na_greenModel.FK_Game_Round_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="na_greenModel.FK_Transactions_Game_Round" ManuallyRouted="false" />
+        <AssociationConnector Association="na_greenModel.FK_Transactions_Transaction_Types" ManuallyRouted="false" />
+        <AssociationConnector Association="na_greenModel.FK_Transactions_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

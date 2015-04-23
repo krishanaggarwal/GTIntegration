@@ -1,0 +1,4 @@
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.Common\bin\Debug\NaGreen.Common.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.Common\bin\Debug\NaGreen.Common.pdb
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.Common\obj\Debug\NaGreen.Common.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.Common\obj\Debug\NaGreen.Common.pdb
