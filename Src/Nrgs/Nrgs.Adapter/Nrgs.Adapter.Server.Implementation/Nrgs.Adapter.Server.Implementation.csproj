@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D9A7EF8-758C-4F44-A571-E1E138DA3B66}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Nrgs.Adapter.Server.Implementation</RootNamespace>
+    <AssemblyName>Nrgs.Adapter.Server.Implementation</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\ArticlesBl.cs" />
+    <Compile Include="Facade\ArticlesFacade.cs" />
+    <Compile Include="Repositories\ArticlesRepository.cs" />
+    <Compile Include="Services\ArticlesService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Nrgs.Adapter.Common\Nrgs.Adapter.Common.csproj">
+      <Project>{1ca23879-d1eb-4367-bb63-8b3f6d01fd33}</Project>
+      <Name>Nrgs.Adapter.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure\Nrgs.Adapter.Web.Api.Infrastructure\Nrgs.Adapter.Web.Api.Infrastructure.csproj">
+      <Project>{46d2ecf5-852b-4c03-b090-0aab8026ccfb}</Project>
+      <Name>Nrgs.Adapter.Web.Api.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Nrgs.Adapter.Domain\Nrgs.Adapter.Domain.csproj">
+      <Project>{e222fee7-2ba1-4818-8cb6-b49911e7435c}</Project>
+      <Name>Nrgs.Adapter.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Nrgs.Adapter.Server.Base\Nrgs.Adapter.Server.Base.csproj">
+      <Project>{a6c007f7-08e5-4828-a551-2ea5382f8745}</Project>
+      <Name>Nrgs.Adapter.Server.Base</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,9 @@
+C:\krishan\Test\Sample\NaGreen\NaGreen.Infrastructure\bin\Debug\NaGreen.Infrastructure.dll
+C:\krishan\Test\Sample\NaGreen\NaGreen.Infrastructure\bin\Debug\NaGreen.Infrastructure.pdb
+C:\krishan\Test\Sample\NaGreen\NaGreen.Infrastructure\obj\Debug\NaGreen.Infrastructure.dll
+C:\krishan\Test\Sample\NaGreen\NaGreen.Infrastructure\obj\Debug\NaGreen.Infrastructure.pdb
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebUi\NaGreen.Infrastructure\bin\Debug\NaGreen.Infrastructure.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebUi\NaGreen.Infrastructure\bin\Debug\NaGreen.Infrastructure.pdb
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebUi\NaGreen.Infrastructure\obj\Debug\NaGreen.Infrastructure.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebUi\NaGreen.Infrastructure\obj\Debug\NaGreen.Infrastructure.pdb
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebUi\NaGreen.Infrastructure\obj\Debug\NaGreen.Infrastructure.csprojResolveAssemblyReference.cache

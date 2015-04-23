@@ -1,0 +1,4 @@
+C:\GTIntegration\Src\Nrgs\NaGreen\Domain\NaGreen.Web.Server.Data\bin\Debug\NaGreen.Web.Server.Data.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\Domain\NaGreen.Web.Server.Data\bin\Debug\NaGreen.Web.Server.Data.pdb
+C:\GTIntegration\Src\Nrgs\NaGreen\Domain\NaGreen.Web.Server.Data\obj\Debug\NaGreen.Web.Server.Data.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\Domain\NaGreen.Web.Server.Data\obj\Debug\NaGreen.Web.Server.Data.pdb

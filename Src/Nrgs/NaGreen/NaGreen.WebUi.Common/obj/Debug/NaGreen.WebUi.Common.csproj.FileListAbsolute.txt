@@ -1,0 +1,4 @@
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebUi.Common\bin\Debug\NaGreen.WebUi.Common.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebUi.Common\bin\Debug\NaGreen.WebUi.Common.pdb
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebUi.Common\obj\Debug\NaGreen.WebUi.Common.dll
+C:\GTIntegration\Src\Nrgs\NaGreen\NaGreen.WebUi.Common\obj\Debug\NaGreen.WebUi.Common.pdb

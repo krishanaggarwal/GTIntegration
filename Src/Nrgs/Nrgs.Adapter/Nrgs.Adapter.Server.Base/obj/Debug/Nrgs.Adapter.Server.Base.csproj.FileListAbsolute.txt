@@ -1,0 +1,17 @@
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Nrgs.Adapter.Server.Base.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Nrgs.Adapter.Server.Base.pdb
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\obj\Debug\Nrgs.Adapter.Server.Base.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\obj\Debug\Nrgs.Adapter.Server.Base.pdb
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\obj\Debug\Nrgs.Adapter.Server.Base.csprojResolveAssemblyReference.cache
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Nrgs.Adapter.Web.Api.Infrastructure.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\System.Web.Http.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\System.Net.Http.Formatting.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Newtonsoft.Json.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Nrgs.Adapter.Web.Api.Infrastructure.pdb
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\System.Web.Http.xml
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\System.Net.Http.Formatting.xml
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Newtonsoft.Json.xml
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Nrgs.Adapter.Domain.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Nrgs.Adapter.Domain.pdb
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Nrgs.Adapter.Common.dll
+C:\GTIntegration\Src\Nrgs\Nrgs.Adapter\Nrgs.Adapter.Server.Base\bin\Debug\Nrgs.Adapter.Common.pdb

@@ -1,0 +1,80 @@
+﻿@model NaGreen.Models.Game
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetGame</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/swfobject.js"></script>
+    <script src="~/Scripts/utils.js"></script>
+    <script type="text/javascript">
+
+        function notifyPropertyChanged(key, value) {
+            var ta = $("#ta");
+            ta.append(key + " : " + value + "\n");
+            ta.scrollTop(ta[0].scrollHeight - ta.height());
+        }
+
+        $(document).ready(function () {
+
+            $(window).bind("message",
+                function (event) {
+                    var data = event.originalEvent.data;
+                    var separator = data.indexOf(":");
+                    var key = data.substr(0, separator);
+                    var value = data.substr(separator + 1);
+                    notifyPropertyChanged(key, value);
+                }
+            );
+
+            var params = {
+                hostname: "ip62-116-24-8.greentube.com",
+                port: "40955",
+                roomid: "3425",
+                playerid: "100006",
+                password: "C576517B-BDBF-4BBF-AEEE-8B61DF3D762D",
+                html5: "0",
+                skin: "english",
+                crypto: "1",
+                nolobby: "1",
+                nogamemenu: "1",
+                autopayin: "1",
+                hidepaytablebutton: "1",
+                hidecredit: "1",
+                bigmenubutton: "0"
+            };
+
+            var paramString = objectToParams(params);
+
+            $("#game")
+                .width(800)
+                .height(600)
+                .attr("frameBorder", "0")
+                .attr("src", "http://ip62-116-24-8.greentube.com/wrapper/sizzlinghot/2014-03-19_1646_html/slot.html?" + paramString);
+
+        });
+    </script>
+    <style>
+        html, body {
+            background-color: #ddd;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Javascript Wrapper <-> HTML5 Client</h1>
+    <div style="background:#08F;position:absolute;width:200px;height:200px;right:100px;top:140px;">overlay</div>
+    <iframe id="game"></iframe>
+    <br />
+    <textarea id="ta" cols="100" rows="15"></textarea>
+    <br />
+</body>
+
+</html>
